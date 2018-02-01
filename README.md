@@ -1,2 +1,2 @@
 # SimplyGrid
-A grid based layout system, based on bootstraps 12 column layout.
+A grid based layout system, inspired by bootstraps 12 column layout.
