@@ -12,15 +12,11 @@ body{
 	grid-template-columns: repeat(12,1fr); 
 }
 
-.red{
+
+
+.grid-item{
 	width: 100%;
-	background-color: red;
-	height: 100px;
-}
-.blue{
-	width: 100%;
-	background-color: blue;
-	height: 100px;
+	height: auto;
 }
 
 
